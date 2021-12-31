@@ -29,7 +29,7 @@
   border-radius: 12px;
 }
 
-/*media query for lg screen*/
+/*media query for mobile screen*/
 @media screen and (max-width: 480px) {
   .top-header .container {
     display: initial;
@@ -53,6 +53,7 @@
     padding: 5px 10px;
   }
 }
+/* media query for tablet */
 /* css for banner section */
 .banner-section {
   background: url(../images/MainBg1.png);
